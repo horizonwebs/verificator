@@ -1,0 +1,432 @@
+{
+  "event": {
+    "id": "CKQL6L",
+    "name": "Stock Market",
+    "organizer": "IEDC"
+  },
+  "certificates": [
+    {
+      "uid": "U30PRV",
+      "name": "Farnah E S ",
+      "slug": "sreenanda_k",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "46X6GI",
+      "name": "Fathima Zara P S ",
+      "slug": "fathima_zara_p_s_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "FZE46Q",
+      "name": "Niveditha K S",
+      "slug": "niveditha_k_s",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "KC10ZA",
+      "name": "Jetsen Joby Manjaly",
+      "slug": "jetsen_joby_manjaly",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "TIU4PP",
+      "name": "Sreenanda K",
+      "slug": "sreenanda_k",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "AGQWAM",
+      "name": "Jaysurya S",
+      "slug": "jaysurya_s",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "AZ65NL",
+      "name": "Meghana Prasad",
+      "slug": "meghana_prasad",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "QRLAFV",
+      "name": "Krishnaja V R",
+      "slug": "krishnaja_v_r",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "C5AX4V",
+      "name": "Diljith J S",
+      "slug": "diljith_j_s",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "HVOE9H",
+      "name": "Malha A K",
+      "slug": "malha_a_k",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "6K14T4",
+      "name": "Evan Abraham Bob ",
+      "slug": "evan_abraham_bob_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "7FGTUY",
+      "name": "Jonathan George",
+      "slug": "jonathan_george",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "NI09K4",
+      "name": "Kuriakose Mathew ",
+      "slug": "kuriakose_mathew_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "XH1HQV",
+      "name": "Joel Joseph James",
+      "slug": "joel_joseph_james",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "G7JO6C",
+      "name": "Muhammed KTK",
+      "slug": "muhammed_ktk",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "T3U3LX",
+      "name": "Madhav BR",
+      "slug": "madhav_br",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "35OK4I",
+      "name": "Jishnu",
+      "slug": "jishnu",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "BWHZYT",
+      "name": "Aleena C P",
+      "slug": "aleena_c_p",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "XTSXE2",
+      "name": "Hanuraj",
+      "slug": "hanuraj",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "3D3ZQF",
+      "name": "Josepaul Jude Christy ",
+      "slug": "josepaul_jude_christy_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "HW1Y6B",
+      "name": "Riya R",
+      "slug": "riya_r",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "Z56XNJ",
+      "name": "Afshin Abdulla NP",
+      "slug": "afshin_abdulla_np",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "R01V14",
+      "name": "Abhijith P S",
+      "slug": "abhijith_p_s",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "K4WJYF",
+      "name": "Nihaal Syed Najeeb",
+      "slug": "nihaal_syed_najeeb",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "Z3UUBZ",
+      "name": "Alex Lloyd M J",
+      "slug": "alex_lloyd_m_j",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "3UO3C4",
+      "name": "Mathew Chery",
+      "slug": "mathew_chery",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "QR6O1C",
+      "name": "Augustine Shaji Kizhakkarakkattu",
+      "slug": "augustine_shaji_kizhakkarakkattu",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "WOGEPP",
+      "name": "Kiran B",
+      "slug": "kiran_b",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "T3K7DD",
+      "name": "Jain shahul ",
+      "slug": "jain_shahul_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "LT6A8V",
+      "name": "Naval Prasad P V",
+      "slug": "naval_prasad_p_v",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "GE73N0",
+      "name": "Sooryadev S",
+      "slug": "sooryadev_s",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "7T6KX9",
+      "name": "Anaswar Ashok",
+      "slug": "anaswar_ashok",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "5CDUJP",
+      "name": "Sidharth K V",
+      "slug": "sidharth_k_v",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "4ADBEQ",
+      "name": "Anirudh J",
+      "slug": "anirudh_j",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "OGRDOQ",
+      "name": "Sneha SB",
+      "slug": "sneha_sb",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "LHXD9H",
+      "name": "Rohit Krishna R ",
+      "slug": "rohit_krishna_r_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "WF3UE8",
+      "name": "Surya Chandhana R",
+      "slug": "surya_chandhana_r",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "KXAQ2S",
+      "name": "Pooja V Sunil",
+      "slug": "pooja_v_sunil",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "27OPSY",
+      "name": "Aditya Dinraj ",
+      "slug": "aditya_dinraj_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "974WH1",
+      "name": "Angel Ross",
+      "slug": "angel_ross",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "DRC07E",
+      "name": "Jaibin Jijoy ",
+      "slug": "jaibin_jijoy_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "RGUYKJ",
+      "name": "Muhammad Shifan",
+      "slug": "muhammad_shifan",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "1PDFZF",
+      "name": "Bisharath K N P",
+      "slug": "bisharath_k_n_p",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "UTLP86",
+      "name": "Amal E",
+      "slug": "amal_e",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "LI267X",
+      "name": "Muhammed Aazim",
+      "slug": "muhammed_aazim",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "QO5WHY",
+      "name": "Theertha Lakshmi P M ",
+      "slug": "theertha_lakshmi_p_m_",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    },
+    {
+      "uid": "33FZWX",
+      "name": "Rezin Mohammed K S",
+      "slug": "rezin_mohammed_k_s",
+      "role": "Participant",
+      "issue_date": "2026-02-07",
+      "status": "valid",
+      "verify_url": "https://horizonwebs.github.io/event/verify"
+    }
+  ]
+}
